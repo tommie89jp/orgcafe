@@ -89,7 +89,7 @@ iframe {
 /* HOME
 ------------------------------- */
 #home {
-    background-image: url(../WCBcafe/images/big-bg.jpg);
+    background-image: url(images/big-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -107,7 +107,7 @@ iframe {
 /* NEWS
 ------------------------------- */
 #news {
-    background-image: url(../WCBcafe/images/news-bg.jpg);
+    background-image: url(images/news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
